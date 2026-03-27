@@ -73,9 +73,7 @@ Jackal
 
 ⭐ If you like this project, give it a star!
 
-# Retail Sales Performance Monitoring System
-
-## 📊 Dashboard Preview
+## 📸 Dashboard Preview
 
 ### Sales Overview
 ![Overview](images/page1.png)
