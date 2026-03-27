@@ -72,3 +72,17 @@ Jackal
 ---
 
 ⭐ If you like this project, give it a star!
+
+## 📸 Dashboard Preview
+
+### Sales Overview
+![Overview](images/page1.png)
+
+### Regional Analysis
+![Regional](images/page2.png)
+
+### Product Performance
+![Product](images/page3.png)
+
+### Forecasting
+![Forecast](images/page4.png)
